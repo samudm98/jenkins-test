@@ -1,3 +1,2 @@
-# Platzi Scripts
+# TEST Scripts Jenkins
 
-Dummy tests are in `jenkins-tests`
